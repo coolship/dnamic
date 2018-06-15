@@ -6,8 +6,8 @@ export default () => (
     <Layout>
        <p>This is the demo page</p>
 
-       <Regl width={window.innerWidth}
-       height={window.innerHeight}
+       <Regl width={500}
+       height={500}
        onFrame={this.onFrameHandler.bind(this)}>
 
        <Triangle color={[1,1,0.5,1]}

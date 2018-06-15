@@ -8,8 +8,8 @@ export default () => (
     <Nav />
 
     <div className="hero">
-      <h1 className="title">Welcome to Next!</h1>
-      <p className="description">To get started, edit <code>pages/index.js</code> and save to reload.</p>
+      <h1 className="title">Welcome to DNA-MICROSCOPY.ORG!</h1>
+      <p className="description">This tool is under development. Learm more at <Link href="/about">/about</Link> or try out our demo at <Link href="/demo">/demo</Link></p>
 
       <div className="row">
         <Link href="https://github.com/zeit/next.js#getting-started">

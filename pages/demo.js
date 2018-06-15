@@ -1,5 +1,6 @@
 import Layout from '../components/Layout.js'
 import Triangle from '../components/triangle.js'
+  import Regl from 'react-regl';
 
 export default () => (
     <Layout>

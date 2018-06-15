@@ -8,6 +8,7 @@ export default () => (
 
        <Regl width={window.innerWidth}
        height={window.innerHeight}
+       console.log("HELLO")
        onFrame={this.onFrameHandler.bind(this)}>
 
        <Triangle color={[1,1,0.5,1]}

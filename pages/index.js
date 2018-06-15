@@ -21,7 +21,7 @@ export default () => (
         <Link href="/demo">
           <a className="card">
             <h3>Demo &rarr;</h3>
-            <p>Fly through a sample dataset</p>
+            <p>Fly through a sample dataset</p> 
           </a>
         </Link>
       </div>
